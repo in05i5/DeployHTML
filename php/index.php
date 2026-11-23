@@ -39,7 +39,7 @@ $thoi_gian = date("d/m/Y H:i:s");
             <?php echo $thoi_gian; ?>
         </p>
 
-        <h2>Lab Deploy - Bai 2</h2>
+        <h2>Lab Deploy - Bai 2.1</h2>
         <p>Website PHP duoc deploy bang GitHub Actions.</p>
     </div>
 </body>
